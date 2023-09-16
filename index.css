@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.homepagetopimage{
+    background-size: cover;
+    height: 80vh;
+}
+.homepage-heading{
+    font-family: 'Bree Serif';
+    color: #183b56;
+    text-align: center;
+    padding: 10px;
+}
+.homepage-para{
+    font-family: 'Bree Serif';
+    color: #616e7c;
+    text-align: center;
+    padding: 10px;
+}
+.homepage-small-image{
+    background-size: cover;
+    margin: 15px;
+    height: 190px;
+    width: 350px;
+}
+
+
+
+
+
+.advancedtech-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+.advancedtech-bottom-card-container {
+    background-color: white;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    padding: 20px;
+}
+.advancedtech-bottom-card-container-heading {
+    color: #5752ab;
+    font-family: 'Bree Serif';
+}
+.advancedtech-bottom-card-container-paragraph {
+    color: #323f4b;
+    font-family: 'Roboto';
+}
+.advancedtech-but-1 {
+    border-color: #d7dfe9;
+    font-family: 'Roboto';
+    color: #171f46;
+    background-color: #ffffff;
+    border-width: 1px;
+    padding: 5px;
+    border-radius: 10px;
+    width: 140px;
+    margin: 10px;
+    height: 45px;
+}
+.advancedtech-but-2 {
+    font-family: 'Roboto';
+    color: #ffffff;
+    background-color: #5752ab;
+    border-width: 0px;
+    padding: 5px;
+    border-radius: 10px;
+    width: 140px;
+    margin: 10px;
+    height: 45px;
+}
+
+
+
+
+.diwalisite-background-top-section{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    background-size: cover;
+    height: 30vh;
+}
+.diwalisite-Tophead-text{
+    font-size: 25px;
+    color: white;
+    padding: 20px;
+    font-family: 'caveat';
+    width: 150px;
+    font-weight: bold;
+}
+.diwalisite-bottom-section{
+    background: #8f0656;
+    padding: 10px;
+    text-align: center;
+}
+.diwalisite-card-item{
+    background-color: white;
+    width: 160px;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+    margin: 35px;
+}
+.diwalisite-card-image{
+    height: 65px;
+    width: 55px;
+}
+.diwalisite-card-heading{
+    font-size: 15px;
+    padding: 5px;
+    font-family: 'Roboto';
+}
+.diwalisite-card-price{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Roboto';
+}
+.diwalisite-bottom-but{
+    background-color: white;
+    color: black;
+    font-family: 'Roboto';
+    border-radius: 5px;
+    border-width: 0px;
+    padding: 5px;
+    font-size: 15px;
+    margin: 30px;
+}
+
+
+
+
+
+.foodorder-bg-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+.foodorder-card {
+    background-color: #f6c56e;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    padding: 10px;
+}
+.foodorder-hed {
+    color: #323f4b;
+    font-family: Bree Serif;
+}
+.foodorder-font-para {
+    color: #323f4b;
+    font-family: Roboto;
+    font-weight: bold;
+}
+.foodorder-but1 {
+    background-color: #ffffff;
+    border-radius: 5px;
+    font-size: 14px;
+    height: 36px;
+    width: 140px;
+    font-family: 'Roboto';
+    color: black;
+    margin: 5px;
+    border-width: 0px;
+}
+.foodorder-but2{
+    font-family: 'Roboto';
+    margin: 5px;
+}
+
+
+
+
+.newspage-bg-image-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+.newspage-card-container {
+    background-color: #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 20px;
+}
+.newspage-card-container-heading {
+    font-family: 'Roboto';
+    color: #323f4b;
+}
+.newspage-card-container-paragraph {
+    font-family: 'Roboto';
+    color: #7b8794;
+}
+.newspage-but1 {
+    font-family: 'Roboto';
+    background-color: #323f4b;
+    color: #ffffff;
+    border-width: 0px;
+    border-radius: 10px;
+    margin: 5px;
+    height: 35px;
+    width: 120px;
+}
+.newspage-but2{
+    font-family: 'Roboto';
+    margin: 5px;
+}
